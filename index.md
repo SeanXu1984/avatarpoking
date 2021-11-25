@@ -4,7 +4,7 @@ Anonymous, Bluetooth/Proximity based Avatar Dating APP
 A perfect way for users to kill time when they are waiting/riding public transportations, waiting in airport lounges, or in campus.
 
 [![Avatar Poking Screenshot](/Screenshot.png "Avatar Poking Screenshot")](https://raw.githubusercontent.com/SeanXu1984/avatarpoking/gh-pages/Screenshot.png)
-{% file="/Screenshot.png" url="https://raw.githubusercontent.com/SeanXu1984/avatarpoking/gh-pages/Screenshot.png" alt="Avatar Poking Screenshot" caption="Avatar Poking Screenshot" %}
+{% file="Screenshot.png" url="https://raw.githubusercontent.com/SeanXu1984/avatarpoking/gh-pages/Screenshot.png" alt="Avatar Poking Screenshot" caption="Avatar Poking Screenshot" %}
 
 ## Full Description
 A proximity based social APP:
