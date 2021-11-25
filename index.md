@@ -6,7 +6,7 @@ A perfect way for users to kill time when they are waiting/riding public transpo
 [![Avatar Poking Screenshot](Screenshot.png)](https://raw.githubusercontent.com/SeanXu1984/avatarpoking/gh-pages/Screenshot.png)
 
 ## Full Description
-A proximity based social APP:
+### A proximity based social APP
 - Connect with nearby people only when you can see them.
 - A brand new way to socialize.
 - Also a more natural way to connect people.
@@ -24,9 +24,7 @@ Online activities and offline activities are integrated in a seamless manner.
 - Step 7: If the nearby user decides to 'poke back'. You will be notified and her/his phone number will be shown to you.
 - Step 8: Once the phone numbers are exchanged you two become friends.
 
-Enjoy!!
-
-Note: 
+### Note 
 - Requires users to turn on Bluetooth to detect nearby users. (Bluetooth is used to make sure only nearby users can connect with each other.)
 - Proximity is used instead of the actual location of users.
 - The APP does not collect any user information. (Neither your profile avatar nor phone number will be collected. Facebook/Snapchat will be aware of your login, though.)
@@ -36,3 +34,6 @@ Note:
 "Avatar Poking" requires users to turn on Bluetooth to detect nearby users. It also requires that users' mobilephone to be connected to the Internet to exchange Avatar and cellphone number.
 
 However, this APP does not collect any user information, such as user avatar, user name and user contact info.
+
+## Download the APK file
+[com.avatar.poking-v1.04(104)-release.apk](url)
