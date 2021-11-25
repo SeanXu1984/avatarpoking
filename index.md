@@ -37,6 +37,10 @@ However, this APP does not collect any user information, such as user avatar, us
 
 ## Download the APK file
 [arm64 v8a apk file download](https://raw.githubusercontent.com/SeanXu1984/avatarpoking/gh-pages/com.avatar.poking-v1.04(104)-arm64-v8a-release.apk)
+
 [armeabi v7a apk file download](https://raw.githubusercontent.com/SeanXu1984/avatarpoking/gh-pages/com.avatar.poking-v1.04(104)-armeabi-v7a-release.apk)
+
 [x86 apk file download](https://raw.githubusercontent.com/SeanXu1984/avatarpoking/gh-pages/com.avatar.poking-v1.04(104)-x86-release.apk)
+
 [x86_64 apk file download](https://raw.githubusercontent.com/SeanXu1984/avatarpoking/gh-pages/com.avatar.poking-v1.04(104)-x86_64-release.apk)
+
