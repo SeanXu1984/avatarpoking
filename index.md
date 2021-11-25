@@ -36,4 +36,4 @@ Online activities and offline activities are integrated in a seamless manner.
 However, this APP does not collect any user information, such as user avatar, user name and user contact info.
 
 ## Download the APK file
-[com.avatar.poking-v1.04(104)-release.apk](url)
+[arm64 v8a apk file download](https://raw.githubusercontent.com/SeanXu1984/avatarpoking/gh-pages/com.avatar.poking-v1.04(104)-arm64-v8a-release.apk)
