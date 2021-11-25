@@ -6,10 +6,6 @@ A perfect way for users to kill time when they are waiting/riding public transpo
 [![Avatar Poking Screenshot](/Screenshot.png "Avatar Poking Screenshot")](https://raw.githubusercontent.com/SeanXu1984/avatarpoking/gh-pages/Screenshot.png)
 {% file="/Screenshot.png" url="https://raw.githubusercontent.com/SeanXu1984/avatarpoking/gh-pages/Screenshot.png" alt="Avatar Poking Screenshot" caption="Avatar Poking Screenshot" %}
 
----
-photo: Screenshot.png
----
-
 ## Full Description
 A proximity based social APP:
 - Connect with nearby people only when you can see them.
