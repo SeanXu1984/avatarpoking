@@ -14,14 +14,15 @@ Users are presented to nearby users via avatars and profile pictures.
 One user can only connect with another user when they can see each other.
 Online activities and offline activities are integrated in a seamless manner. 
 
-Step 1: Log in using Facebook account or Snapchat account to set up your avatar/profile picture. (If you don't feel comfortable with using your own photo you can always use your cartoon style avatar. It also adds an extra layer of fun. However if you wear a mask, using your own photo as the profile picture might help nearby users to identify you.)
-Step 2: Put in your phone number.
-Step 3: Explore nearby users avatar/profile picture and identify the user in real life.
-Step 4: 'Poke' the nearby user if you want to connect with her/him.
-Step 5: The nearby user will be notified with your poking and your avatar/profile picture + phone number will be shown up to the nearby user.
-Step 6: The nearby user can identify you and decide whether to 'poke back'.
-Step 7: If the nearby user decides to 'poke back'. You will be notified and her/his phone number will be shown to you.
-Step 8: Once the phone numbers are exchanged you two become friends.
+- Step 1: Log in using Facebook account or Snapchat account to set up your avatar/profile picture. (If you don't feel comfortable with using your own photo you can always use your cartoon style avatar. It also adds an extra layer of fun. However if you wear a mask, using your own photo as the profile picture might help nearby users to identify you.)
+- Step 2: Put in your phone number.
+- Step 3: Explore nearby users avatar/profile picture and identify the user in real life.
+- Step 4: 'Poke' the nearby user if you want to connect with her/him.
+- Step 5: The nearby user will be notified with your poking and your avatar/profile picture + phone number will be shown up to the nearby user.
+- Step 6: The nearby user can identify you and decide whether to 'poke back'.
+- Step 7: If the nearby user decides to 'poke back'. You will be notified and her/his phone number will be shown to you.
+- Step 8: Once the phone numbers are exchanged you two become friends.
+
 Enjoy!!
 
 Note: 
